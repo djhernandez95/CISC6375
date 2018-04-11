@@ -1,2 +1,2 @@
-System Requirements text file example
-+ The System shall be easy to use.
++ The system shall be easy to use.
++ The system shall be secure.
